@@ -98,4 +98,3 @@ Description
 
 ![3](https://github.com/amirani18/insta_hype_bot/assets/112004077/84767cbc-8e6a-48e2-a81e-618cc1d18cff)
 
-![image](https://github.com/amirani18/insta_hype_bot/assets/112004077/83289c9d-2577-4388-a9c7-acdbd9b92f2e)
