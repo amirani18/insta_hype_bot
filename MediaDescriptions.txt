@@ -1,30 +1,30 @@
 Welcome to your media hub! This is where you may see information about the posts we've got for you from Instagram!
 ******************************************************************************************************************
 
-Post number 1 has the id of 2989880010647314179_48247395418
+Post number 1 has the id of 3391219348632788612_39665641190
+
+		This post contains the hashtag love that is written in the caption 3 times.
+		This post has a media type number of 1, indicating it is a photo.
+
+Post number 2 has the id of 3391219336991182343_58333704606
 
 		This post contains the hashtag love that is written in the caption 1 times.
 		This post has a media type number of 1, indicating it is a photo.
 
-Post number 2 has the id of 2989879948270461716_613626655
+Post number 3 has the id of 3391219244665742602_1925845125
+
+		This post contains the hashtag love that is written in the caption 1 times.
+		This post has a media type number of 8, indicating it is an album.
+
+Post number 4 has the id of 3391219242774461709_60199837500
 
 		This post contains the hashtag love that is written in the caption 1 times.
 		This post has a media type number of 1, indicating it is a photo.
 
-Post number 3 has the id of 2989879954437120921_38562863192
+Post number 5 has the id of 3391219361175559584_10589953827
 
-		This post contains the hashtag love that is written in the caption 1 times.
+		This post contains the hashtag love that is written in the caption 2 times.
 		This post has a media type number of 1, indicating it is a photo.
-
-Post number 4 has the id of 2989879968125912476_8949444832
-
-		This post contains the hashtag love that is written in the caption 1 times.
-		This post has a media type number of 1, indicating it is a photo.
-
-Post number 5 has the id of 2989879911768220704_3006700323
-
-		This post contains the hashtag love that is written in the caption 1 times.
-		This post has a media type number of 2, indicating it is a video, reel, or IGTV.
 
 
 We've described the media we've collected on the posts with the hashtag love for you!! 

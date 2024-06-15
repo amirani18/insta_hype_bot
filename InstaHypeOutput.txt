@@ -1,6 +1,6 @@
-info: ['areej.mirare', 'HGKnight$15']
-username is: areej.mirare
-password is: HGKnight$15
+info: ['testpy2024', 'montanagrizzlies20']
+username is: testpy2024
+password is: montanagrizzlies20
 Logging in...
 Logged in!
 
