@@ -1,0 +1,6 @@
+info: ['areej.mirare', 'HGKnight$15']
+username is: areej.mirare
+password is: HGKnight$15
+Logging in...
+Logged in!
+
